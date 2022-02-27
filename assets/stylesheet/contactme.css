@@ -1,0 +1,27 @@
+.contactme {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+}
+
+.contactme .txt_title {
+    text-align: center;
+}
+
+.contactmelist .item{
+    margin-bottom: 1em;
+}
+.contactme_list span {
+    padding: 0.1px;
+}
+
+.contactme .item i{
+    padding: 5px;
+    display: inline-block;
+    margin-right:0.1px;
+    font-size: 20px;
+    width:30px;
+    line-height: 1;
+    color:#777;
+}

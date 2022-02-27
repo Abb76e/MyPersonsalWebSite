@@ -1,0 +1,11 @@
+.aboutme .txt_title {
+    text-align: center;
+}
+
+.aboutme p {
+    width: 100%;
+    align-items: center;
+    line-height: 1.7;
+    padding: 6px;
+    font-family: 'Share Tech Mono', monospace;
+}
